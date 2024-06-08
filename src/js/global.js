@@ -16,7 +16,6 @@
 export const global = {
   currentPage: window.location.pathname,
   api: {
-    // Ваш API ключ здесь
     apiKey: "",
     apiUrl: "https://api.themoviedb.org/3/",
   },
